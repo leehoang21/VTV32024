@@ -12,5 +12,3 @@ for i in range(0, testcase):
     b = input()
     n = UCLN(a,b)
     output(n)
-    
-  
